@@ -1,115 +1,115 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="NatGeo WILD (NGWILD)">
+  <channel id="NatGeoWild.us">
     <display-name lang="en">NatGeo WILD (NGWILD)</display-name>
     <url>http://www.tv.com</url>
   </channel>
-  <channel id="Cable News Network (CNN)">
+  <channel id="CNN.us">
     <display-name lang="en">Cable News Network (CNN)</display-name>
     <url>http://www.tv.com</url>
   </channel>
-  <channel id="msnbc (MSNBC)">
+  <channel id="MSNBC.us">
     <display-name lang="en">msnbc (MSNBC)</display-name>
     <url>http://www.tv.com</url>
   </channel>
-  <programme start="20200728060000 +0000" stop="20200728070000 +0000" channel="NatGeo WILD (NGWILD)">
+  <programme start="20200728060000 +0000" stop="20200728070000 +0000" channel="NatGeoWild.us">
     <title lang="en">Dr. Oakley, Yukon Vet</title>
     <desc lang="en">Steer Clear.(n)</desc>
   </programme>
-  <programme start="20200728070000 +0000" stop="20200728080000 +0000" channel="NatGeo WILD (NGWILD)">
+  <programme start="20200728070000 +0000" stop="20200728080000 +0000" channel="NatGeoWild.us">
     <title lang="en">Dr. Oakley, Yukon Vet</title>
     <desc lang="en">Baby Boom.(n)</desc>
   </programme>
-  <programme start="20200728080000 +0000" stop="20200728090000 +0000" channel="NatGeo WILD (NGWILD)">
+  <programme start="20200728080000 +0000" stop="20200728090000 +0000" channel="NatGeoWild.us">
     <title lang="en">Dr. Oakley, Yukon Vet</title>
     <desc lang="en">Taming of the Wolverine.(n)</desc>
   </programme>
-  <programme start="20200728090000 +0000" stop="20200728100000 +0000" channel="NatGeo WILD (NGWILD)">
+  <programme start="20200728090000 +0000" stop="20200728100000 +0000" channel="NatGeoWild.us">
     <title lang="en">The Incredible Dr. Pol</title>
     <desc lang="en">Mooovin' on Up.(n)</desc>
   </programme>
-  <programme start="20200728100000 +0000" stop="20200728110000 +0000" channel="NatGeo WILD (NGWILD)">
+  <programme start="20200728100000 +0000" stop="20200728110000 +0000" channel="NatGeoWild.us">
     <title lang="en">The Incredible Dr. Pol</title>
     <desc lang="en">I Love Moo!(n)</desc>
   </programme>
-  <programme start="20200728110000 +0000" stop="20200728120000 +0000" channel="NatGeo WILD (NGWILD)">
+  <programme start="20200728110000 +0000" stop="20200728120000 +0000" channel="NatGeoWild.us">
     <title lang="en">The Incredible Dr. Pol</title>
     <desc lang="en">Grub-a-Dub-Dub.(n)</desc>
   </programme>
-  <programme start="20200728120000 +0000" stop="20200728130000 +0000" channel="NatGeo WILD (NGWILD)">
+  <programme start="20200728120000 +0000" stop="20200728130000 +0000" channel="NatGeoWild.us">
     <title lang="en">The Incredible Dr. Pol</title>
     <desc lang="en">May the Horse Be With You.(n)</desc>
   </programme>
-  <programme start="20200728130000 +0000" stop="20200728140000 +0000" channel="NatGeo WILD (NGWILD)">
+  <programme start="20200728130000 +0000" stop="20200728140000 +0000" channel="NatGeoWild.us">
     <title lang="en">Alaska Animal Rescue</title>
     <desc lang="en">Fly Like an Eagle.(n)</desc>
   </programme>
-  <programme start="20200728140000 +0000" stop="20200728150000 +0000" channel="NatGeo WILD (NGWILD)">
+  <programme start="20200728140000 +0000" stop="20200728150000 +0000" channel="NatGeoWild.us">
     <title lang="en">Alaska Animal Rescue</title>
     <desc lang="en">Seal Pup Voyage.(n)</desc>
   </programme>
-  <programme start="20200728150000 +0000" stop="20200728160000 +0000" channel="NatGeo WILD (NGWILD)">
+  <programme start="20200728150000 +0000" stop="20200728160000 +0000" channel="NatGeoWild.us">
     <title lang="en">Alaska Animal Rescue</title>
     <desc lang="en">The Naughty Otter.(n)</desc>
   </programme>
-  <programme start="20200728060000 +0000" stop="20200728070000 +0000" channel="Cable News Network (CNN)">
+  <programme start="20200728060000 +0000" stop="20200728070000 +0000" channel="CNN.us">
     <title lang="en">CNN Newsroom with Poppy Harlow and Jim Sciutto</title>
   </programme>
-  <programme start="20200728070000 +0000" stop="20200728080000 +0000" channel="Cable News Network (CNN)">
+  <programme start="20200728070000 +0000" stop="20200728080000 +0000" channel="CNN.us">
     <title lang="en">CNN Newsroom with Poppy Harlow and Jim Sciutto</title>
   </programme>
-  <programme start="20200728080000 +0000" stop="20200728090000 +0000" channel="Cable News Network (CNN)">
+  <programme start="20200728080000 +0000" stop="20200728090000 +0000" channel="CNN.us">
     <title lang="en">CNN Newsroom</title>
   </programme>
-  <programme start="20200728090000 +0000" stop="20200728100000 +0000" channel="Cable News Network (CNN)">
+  <programme start="20200728090000 +0000" stop="20200728100000 +0000" channel="CNN.us">
     <title lang="en">CNN Newsroom</title>
   </programme>
-  <programme start="20200728100000 +0000" stop="20200728110000 +0000" channel="Cable News Network (CNN)">
+  <programme start="20200728100000 +0000" stop="20200728110000 +0000" channel="CNN.us">
     <title lang="en">CNN Newsroom</title>
   </programme>
-  <programme start="20200728110000 +0000" stop="20200728120000 +0000" channel="Cable News Network (CNN)">
+  <programme start="20200728110000 +0000" stop="20200728120000 +0000" channel="CNN.us">
     <title lang="en">CNN Newsroom</title>
   </programme>
-  <programme start="20200728120000 +0000" stop="20200728130000 +0000" channel="Cable News Network (CNN)">
+  <programme start="20200728120000 +0000" stop="20200728130000 +0000" channel="CNN.us">
     <title lang="en">CNN Newsroom With Brooke Baldwin</title>
   </programme>
-  <programme start="20200728130000 +0000" stop="20200728140000 +0000" channel="Cable News Network (CNN)">
+  <programme start="20200728130000 +0000" stop="20200728140000 +0000" channel="CNN.us">
     <title lang="en">The Lead With Jake Tapper</title>
   </programme>
-  <programme start="20200728140000 +0000" stop="20200728150000 +0000" channel="Cable News Network (CNN)">
+  <programme start="20200728140000 +0000" stop="20200728150000 +0000" channel="CNN.us">
     <title lang="en">Situation Room With Wolf Blitzer</title>
   </programme>
-  <programme start="20200728150000 +0000" stop="20200728160000 +0000" channel="Cable News Network (CNN)">
+  <programme start="20200728150000 +0000" stop="20200728160000 +0000" channel="CNN.us">
     <title lang="en">Situation Room With Wolf Blitzer</title>
   </programme>
-  <programme start="20200728060000 +0000" stop="20200728070000 +0000" channel="msnbc (MSNBC)">
+  <programme start="20200728060000 +0000" stop="20200728070000 +0000" channel="MSNBC.us">
     <title lang="en">MSNBC Live With Stephanie Ruhle</title>
   </programme>
-  <programme start="20200728070000 +0000" stop="20200728080000 +0000" channel="msnbc (MSNBC)">
+  <programme start="20200728070000 +0000" stop="20200728080000 +0000" channel="MSNBC.us">
     <title lang="en">MSNBC Live With Hallie Jackson</title>
   </programme>
-  <programme start="20200728080000 +0000" stop="20200728090000 +0000" channel="msnbc (MSNBC)">
+  <programme start="20200728080000 +0000" stop="20200728090000 +0000" channel="MSNBC.us">
     <title lang="en">MSNBC Live With Craig Melvin</title>
   </programme>
-  <programme start="20200728090000 +0000" stop="20200728100000 +0000" channel="msnbc (MSNBC)">
+  <programme start="20200728090000 +0000" stop="20200728100000 +0000" channel="MSNBC.us">
     <title lang="en">Andrea Mitchell Reports</title>
   </programme>
-  <programme start="20200728100000 +0000" stop="20200728110000 +0000" channel="msnbc (MSNBC)">
+  <programme start="20200728100000 +0000" stop="20200728110000 +0000" channel="MSNBC.us">
     <title lang="en">MSNBC Live With Velshi and Ruhle</title>
   </programme>
-  <programme start="20200728110000 +0000" stop="20200728120000 +0000" channel="msnbc (MSNBC)">
+  <programme start="20200728110000 +0000" stop="20200728120000 +0000" channel="MSNBC.us">
     <title lang="en">MSNBC Live With Katy Tur</title>
   </programme>
-  <programme start="20200728120000 +0000" stop="20200728130000 +0000" channel="msnbc (MSNBC)">
+  <programme start="20200728120000 +0000" stop="20200728130000 +0000" channel="MSNBC.us">
     <title lang="en">MSNBC Live With Ali Velshi</title>
   </programme>
-  <programme start="20200728130000 +0000" stop="20200728140000 +0000" channel="msnbc (MSNBC)">
+  <programme start="20200728130000 +0000" stop="20200728140000 +0000" channel="MSNBC.us">
     <title lang="en">Deadline: White House</title>
   </programme>
-  <programme start="20200728140000 +0000" stop="20200728150000 +0000" channel="msnbc (MSNBC)">
+  <programme start="20200728140000 +0000" stop="20200728150000 +0000" channel="MSNBC.us">
     <title lang="en">MTP Daily</title>
   </programme>
-  <programme start="20200728150000 +0000" stop="20200728160000 +0000" channel="msnbc (MSNBC)">
+  <programme start="20200728150000 +0000" stop="20200728160000 +0000" channel="MSNBC.us">
     <title lang="en">The Beat With Ari Melber</title>
   </programme>
 </tv>
